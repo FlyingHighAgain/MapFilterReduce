@@ -1,3 +1,4 @@
+-- MyModule.hs
 
 module MyModule where
   import Data.Char(toUpper)
